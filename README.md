@@ -6,6 +6,7 @@ quick and clean template for scala finch rest-api project
 * JDK8 installed
 * scala installed
 * sbt installed
+* docker (and docker-compose if in linux) installed
 
 ### Running the image
 ```

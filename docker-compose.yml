@@ -1,0 +1,8 @@
+version: '2'
+services:
+  finch-backend:
+    build: .
+    image: finch-backend
+    container_name: finch-backend
+    ports:
+      - "19090:9090"

@@ -1,6 +1,12 @@
 # scala-finch-template
 quick and clean template for scala finch rest-api project
 
+## Prerequisites
+
+* JDK8 installed
+* scala installed
+* sbt installed
+
 ### Running the image
 ```
 ./build.sh
